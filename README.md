@@ -1,2 +1,2 @@
 # Dicee-game
-This is a simple dice game built using Javascript.
+A fun and interactive rolling dice game
